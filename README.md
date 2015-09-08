@@ -1,1 +1,1 @@
-jpush for phonegap plugin test~
+jpush for phonegap plugin test!
