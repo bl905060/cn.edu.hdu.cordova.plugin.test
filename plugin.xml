@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-        id="cn.jpush.phonegap.JPushPlugin" version="0.0.1">
+        id="cn.edu.hdu.cordova.pushForXG" version="0.0.1">
 
     <name>JPush Plugin</name>
     <description>JPush for cordova plugin</description>
